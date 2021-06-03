@@ -2,6 +2,13 @@
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I'm...</h2> 
 <a href="https://imgur.com/Zd3duTA"><img src="https://i.imgur.com/Zd3duTA.png" title="Aldo Matus" /></a>
 
+ <div align="center">
+  <a href="https://www.linkedin.com/in/aldomatus/" ><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="Linkedin" width="30"/></a>
+  <a href="https://api.whatsapp.com/send?phone=529515577974" ><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/whatsapp.svg" title="Linkedin" width="30"/></a>
+  <a href="https://www.linkedin.com/in/aldomatus/" ><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="Linkedin" width="30"/></a>
+
+  </div>
+
 <h2 align="center">A passionate Backend developer from Mexico</h2>
 
 - 🔭 I’m currently working on [online_store](https://github.com/aldomatus/online_store)
