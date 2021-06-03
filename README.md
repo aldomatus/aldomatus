@@ -1,6 +1,6 @@
 <h2> Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I'm...</h2> 
-<a href="https://imgur.com/Zd3duTA"><img src="https://i.imgur.com/Zd3duTA.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Zd3duTA"><img src="https://i.imgur.com/Zd3duTA.png" title="Aldo Matus" /></a>
 
 <h2 align="center">A passionate Backend developer from Mexico</h2>
 
@@ -26,7 +26,7 @@
 <p align="center">
   <i>Let's connect and chat! Find me on the web...</i>
 
- 
+ <a href="https://www.facebook.com/aldo.matusmartinez"><img src="http://i.imgur.com/P3YfQoD.png" title="Facebook" /></a>
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
