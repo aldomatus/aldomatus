@@ -1,4 +1,6 @@
-<h2> Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <br>I'm... <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  
+<br>I'm... 
 <a href="https://imgur.com/Zd3duTA"><img src="https://i.imgur.com/Zd3duTA.png" title="source: imgur.com" /></a>
 
 <h2 align="center">A passionate Backend developer from Mexico</h2>
