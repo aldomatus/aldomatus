@@ -3,9 +3,9 @@
 <a href="https://imgur.com/Zd3duTA"><img src="https://i.imgur.com/Zd3duTA.png" title="Aldo Matus" /></a>
 
  <div align="center">
-  <a href="https://www.linkedin.com/in/aldomatus/" ><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="Linkedin" width="30"/></a>
-  <a href="https://api.whatsapp.com/send?phone=529515577974" ><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/whatsapp.svg" title="Linkedin" width="30"/></a>
-  <a href="https://www.linkedin.com/in/aldomatus/" ><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="Linkedin" width="30"/></a>
+  <a href="https://www.linkedin.com/in/aldomatus/" ><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" title="Linkedin" width="40"/></a>
+  <a href="https://api.whatsapp.com/send?phone=529515577974" ><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/whatsapp.svg" title="Whatsapp" width="40"/></a>
+  <a href="https://telegram.me/@aldomatus" ><img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/telegram.svg" title="Telegram" width="40"/></a>
 
   </div>
 
