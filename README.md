@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **MongoDB, Dokers, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aldomatus/portfolio](https://github.com/aldomatus/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/aldomatus/portfolio](https://portfolioaldo.herokuapp.com)
 
-- 📝 I regularly write articles on [aldo.com](aldo.com)
+- 📝 I regularly write articles on [portfolioaldo](https://portfolioaldo.herokuapp.com)
 
 - 💬 Ask me about **Python, API REST, SQL**
 
