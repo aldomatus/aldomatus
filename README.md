@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [online_store](https://github.com/aldomatus/online_store)
 
-- 🌱 I’m currently learning **MongoDB, Dokers, AWS**
+- 🌱 I’m currently learning **MongoDB, Docker, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aldomatus](https://github.com/aldomatus)
 
