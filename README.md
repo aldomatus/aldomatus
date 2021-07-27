@@ -11,7 +11,7 @@
 
 <h2 align="center">A passionate Backend developer from Mexico</h2>
 
-- 🔭 I’m currently working on [online_store](https://github.com/aldomatus/online_store)
+- 🔭 I’m currently working on [A REST API with Flask, MySQL and Docker](https://github.com/aldomatus/flask_rest_api_mysql_docker)
 
 - 🌱 I’m currently learning **MongoDB, Docker, AWS**
 
