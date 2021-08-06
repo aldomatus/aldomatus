@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Python, API REST, SQL**
 
-- 📫 How to reach me **aldo.matus@outlook.com**
+- 📫 How to reach me **aldomatusmartinez@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
