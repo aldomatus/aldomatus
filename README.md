@@ -11,15 +11,15 @@
 
 <h2 align="center">A passionate Backend developer from Mexico</h2>
 
-- 🔭 I’m currently working on [A REST API with Flask, MySQL and Docker](https://github.com/aldomatus/flask_rest_api_mysql_docker)
+- 🔭 I’m currently working on my personal webpage in React
 
-- 🌱 I’m currently learning **MongoDB, Docker, AWS**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aldomatus](https://github.com/aldomatus)
 
 - 📝 I regularly write articles on [portfolioaldo](https://portfolioaldo.herokuapp.com)
 
-- 💬 Ask me about **Python, API REST, SQL**
+- 💬 Ask me about **Python, API REST, SQL, Data analysis**
 
 - 📫 How to reach me **aldomatusmartinez@gmail.com**
 
